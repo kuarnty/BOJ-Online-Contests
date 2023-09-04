@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BOJ Online Contests", "BOJ 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "겨울 숲의 초대", "겨울 숲의 초대\겨울 숲의 초대.vcxproj", "{857ABC57-44DB-43EC-8F99-552E29C402BD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "월간 향유회 2023. 08", "월간 향유회 2023. 08\월간 향유회 2023. 08.vcxproj", "{80C5407E-5A6A-44DA-8421-2B541B1030B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{857ABC57-44DB-43EC-8F99-552E29C402BD}.Release|x64.Build.0 = Release|x64
 		{857ABC57-44DB-43EC-8F99-552E29C402BD}.Release|x86.ActiveCfg = Release|Win32
 		{857ABC57-44DB-43EC-8F99-552E29C402BD}.Release|x86.Build.0 = Release|Win32
+		{80C5407E-5A6A-44DA-8421-2B541B1030B1}.Debug|x64.ActiveCfg = Debug|x64
+		{80C5407E-5A6A-44DA-8421-2B541B1030B1}.Debug|x64.Build.0 = Debug|x64
+		{80C5407E-5A6A-44DA-8421-2B541B1030B1}.Debug|x86.ActiveCfg = Debug|Win32
+		{80C5407E-5A6A-44DA-8421-2B541B1030B1}.Debug|x86.Build.0 = Debug|Win32
+		{80C5407E-5A6A-44DA-8421-2B541B1030B1}.Release|x64.ActiveCfg = Release|x64
+		{80C5407E-5A6A-44DA-8421-2B541B1030B1}.Release|x64.Build.0 = Release|x64
+		{80C5407E-5A6A-44DA-8421-2B541B1030B1}.Release|x86.ActiveCfg = Release|Win32
+		{80C5407E-5A6A-44DA-8421-2B541B1030B1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
