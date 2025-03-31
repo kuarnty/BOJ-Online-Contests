@@ -15,7 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="A번 - 새천년관.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="B번 - 비밀번호.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C번 - 건덕이의 돌탑.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

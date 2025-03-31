@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="A번 - 치매예방수칙 3.3.3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="B번 - 비장의 일격 %28Small%29.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -15,7 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="A번 - 과민성 대장 증후군.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="B번 - 팀명 정하기 2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C번 - 온데간데없을뿐더러.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D번 - 미로 탈출.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

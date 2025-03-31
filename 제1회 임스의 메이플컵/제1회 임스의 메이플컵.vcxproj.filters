@@ -15,7 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="A번 - 임스의 메이플컵.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="B번 - 에르다 노바와 오리진 스킬.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C번 - 규칙적인 보스돌이.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
